@@ -1,0 +1,8 @@
+# Sample wordlist for Google Sites subpages
+accueil
+contact
+geographie
+histoire
+sciences
+apropos
+ressources
